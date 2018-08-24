@@ -11,6 +11,6 @@ Code in this repository (`utility_code`) is licensed to MIT.
 
 Figures in this repository (`servant_icon`, `servant_icon_final`, `servant_icon_present`) have been transformed by ImageMagick for warning ICCP from libpng. These figures are collected from http://fategrandorder.wikia.com/, and are licensed to CC BY-SA 3.0.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
 Data collected from https://fgo.wiki (`servant_info`) are licensed to CC BY-NC-SA 4.0.
