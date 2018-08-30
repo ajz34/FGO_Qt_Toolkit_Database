@@ -11,7 +11,7 @@ Code in this repository (`utility_code`) is licensed to MIT.
 
 Figures in this repository (`servant_icon`, `servant_icon_final`, `servant_icon_present`) have been transformed by ImageMagick for warning ICCP from libpng. These figures are collected from http://fategrandorder.wikia.com/, and are licensed to CC BY-SA 3.0.
 
-Figures in this repository (`event_figure`) are downloaded from https://www.fate-go.jp/; however, these figures have been shown on http://fategrandorder.wikia.com/.
+Figures in this repository (`event_figure`) are downloaded from https://www.fate-go.jp/; however, these figures have been shown on http://fategrandorder.wikia.com/. For display beauty, I used ImageMagick 7.0.8 to replace alpha channel to white background.
 
 Data of `item/event_item.*` are collected from two sources:
 * for Exp, QP, piece, gems, monuments, as well as event period, are collected from http://fategrandorder.wikia.com/ (I just collected the data in points reward and event shop, not all information such as completion reward and notable drops)
